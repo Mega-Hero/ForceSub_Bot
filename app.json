@@ -10,33 +10,33 @@
         "Forcesub",
         "ForceSubBot"
     ],
-    "repository": "https://github.com/Jigarvarma2005/ForceSub_Bot",
-    "website": "https://t.me/UniversalBotsUpdate",
-    "success_url": "https://t.me/UniversalBotsUpdate",
+    "repository": "https://github.com/Mega-Hero/ForceSub_Bot",
+    "website": "https://github.com/Mega-Hero/ForceSub_Bot",
+    "success_url": "https://github.com/Mega-Hero/ForceSub_Bot",
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
-            "value": "",
+            "value": "ad1791ee9e640932900fcbf878bf0cae",
             "required": true
         },
         "APP_ID": {
             "description": "You APP ID from my.telegram.org",
-            "value": "",
+            "value": "7175298",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "",
+            "value": "5407752851:AAHc-CTxCRciLxxedkpBzNUBVtFxdKw7eLM",
             "required": true
         },
         "UPDATES_CHANNEL": {
             "description": "Your bot updates channel username without @ or leave empty",
-            "value": "",
+            "value": "MutyalaHarshith",
             "required": false
         },
         "SUDO_USERS": {
             "description": "Sudo users (Goto @JVToolsBot and send /id to get your id)",
-            "value": "",
+            "value": "1939332189 1898887060",
             "required": false
         }
     },
